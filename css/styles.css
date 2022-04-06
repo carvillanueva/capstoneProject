@@ -12,6 +12,9 @@
     min-height: 440px;
 }
 
+.card-img-top {
+    max-height: 230px;
+
 .card-body {
     text-align: center;
 }
