@@ -8,7 +8,11 @@
     background-size: cover;
 }
 
-.card-body{
+.card { 
+    min-height: 440px;
+}
+
+.card-body {
     text-align: center;
 }
 
